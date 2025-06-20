@@ -26,7 +26,7 @@ I'm a professional Game Master, Narrative Designer, and aspiring Software Engine
 ### 🌍 Let's Connect
 - 💬 Ask me about: TTRPG design, worldbuilding, interactive narratives, learning to code.
 - 📫 Reach me at: **itsjaydenking@gmail.com**
-- 🧵 Find me online: [@itsjaydenking](https://www.threads.net/@itsjaydenking) | [Twitch](https://www.twitch.tv/itsjaydenking) | [Ko-Fi](https://ko-fi.com/itsjaydenking) *(links optional – update with yours)*
+- 🧵 Find me online: [Threads](https://www.threads.net/@itsjaydenking) | [Twitch](https://www.twitch.tv/itsjaydenking) | [Ko-Fi](https://ko-fi.com/itsjaydenking) 
 
 ---
 
