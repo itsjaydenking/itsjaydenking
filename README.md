@@ -34,7 +34,7 @@ I thrive at the crossroads of **technology and creativity**: building responsive
 
 ---
 
-### 🔹 [Las Vegas: Sin City by Night](https://itsjaydenking.github.io/sin-city-by-night/) | [GitHub](https://github.com/itsjaydenking/sin-city-by-night)  
+### 🔹 [Las Vegas: Sin City by Night](https://itsjaydenking.github.io/las-vegas-by-night/) | [GitHub](https://github.com/itsjaydenking/las-vegas-by-night)  
 *A digital toolkit + interactive web app for *Vampire: The Masquerade 5e**  
 
 - Framework-free: built in **vanilla JS, HTML5, CSS3** → lightning fast  
