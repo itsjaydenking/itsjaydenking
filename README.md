@@ -125,12 +125,3 @@ Designed narrative systems and interactive storytelling tools used in 200+ globa
 ---
 
 ✨ *I build systems that combine clear engineering, thoughtful design, and a bit of imagination.*
-
-## 🌍 Connect with Me  
-💬 Ask me about: software engineering, TTRPG design, worldbuilding, and interactive narratives  
-📫 **Email**: [campbelljordan64@gmail.com](mailto:campbelljordan64@gmail.com)  
-🧵 Socials: [Threads](https://www.threads.net/@itsjaydenking) | [Twitch](https://www.twitch.tv/itsjaydenking) | [Ko-Fi](https://ko-fi.com/itsjaydenking)  
-
----
-
-✨ *I build with imagination, optimize with code, and lead with collaboration.*  
