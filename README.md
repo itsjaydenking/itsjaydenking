@@ -120,7 +120,7 @@ Designed narrative systems and interactive storytelling tools used in 200+ globa
 [campbelljordan64@gmail.com](mailto:campbelljordan64@gmail.com)  
 
 🌐 Social  
-[Threads](https://www.threads.net/@itsjaydenking) • [Twitch](https://www.twitch.tv/itsjaydenking) • [Ko-Fi](https://ko-fi.com/itsjaydenking
+[Threads](https://www.threads.net/@itsjaydenking) • [Twitch](https://www.twitch.tv/itsjaydenking) • [Ko-Fi](https://ko-fi.com/itsjaydenking)
 
 ---
 
