@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/itsjaydenking)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:campbelljordan64@gmail.com)
 
-💡 *“I build scalable software and immersive worlds — blending engineering with storytelling.”*
+💡 *“I build scalable software and epic worlds — blending engineering with storytelling.”*
 
 ---
 
